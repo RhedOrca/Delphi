@@ -1,2 +1,3 @@
 # Delphi
-test project for machine learning
+Test project for machine learning, web scraping
+Using: Scikit Learn, BeautifulSoup, urllib2, csv's
